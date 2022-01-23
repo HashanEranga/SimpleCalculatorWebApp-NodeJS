@@ -1,0 +1,20 @@
+{
+  "name": "simplecalculatorwebapp-nodejs",
+  "version": "1.0.0",
+  "description": "A simple web application for calculate two numbers given",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon calculator.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HashanEranga/SimpleCalculatorWebApp-NodeJS.git"
+  },
+  "author": "Hashan Eranga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HashanEranga/SimpleCalculatorWebApp-NodeJS/issues"
+  },
+  "homepage": "https://github.com/HashanEranga/SimpleCalculatorWebApp-NodeJS#readme"
+}
