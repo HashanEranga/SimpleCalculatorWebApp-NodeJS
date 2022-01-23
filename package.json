@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/HashanEranga/SimpleCalculatorWebApp-NodeJS/issues"
   },
-  "homepage": "https://github.com/HashanEranga/SimpleCalculatorWebApp-NodeJS#readme"
+  "homepage": "https://github.com/HashanEranga/SimpleCalculatorWebApp-NodeJS#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
 }
