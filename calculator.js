@@ -17,4 +17,5 @@ app.post("/", function(req, res){
 
 app.listen(3000, function(){
     console.log("Server Listening at PORT 3000")
+    console.log("URL : http://localhost:3000")
 })
